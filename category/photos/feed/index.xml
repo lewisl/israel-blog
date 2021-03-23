@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Photos &#8211; Israel Study Tour</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 08 Mar 2021 04:56:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+<site xmlns="com-wordpress:feed-additions:1">180112064</site>	<item>
+		<title>Photos</title>
+		<link>./../../../2009/07/photos/index.html</link>
+					<comments>./../../../2009/07/photos/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2009 23:33:25 +0000</pubDate>
+				<category><![CDATA[Photos]]></category>
+		<guid isPermaLink="false">http://192.168.1.90/israel/?p=4</guid>
+
+					<description><![CDATA[Here is a large collection of photos from the trip.  I&#8217;ve arranged them geographically rather than chronologically.  You see, I essentially circled Israel twice: once with Joe Zias and once with the New Israel Fund group.  I was in Jerusalem 3 different times, the Galilee twice, and other  places just once.  So, it seems clearer [&#038;hellip]]></description>
+										<content:encoded><![CDATA[<p>Here is a large collection of photos from the trip.  I&#8217;ve arranged them geographically rather than chronologically.  You see, I essentially circled Israel twice: once with Joe Zias and once with the New Israel Fund group.  I was in Jerusalem 3 different times, the Galilee twice, and other  places just once.  So, it seems clearer to keep related pictures together.</p>
+<p>At some point I&#8217;ll add captions so that you have a better sense of what and whom you are seeing, and why.</p>
+<p><a href="https://lewislevin.smugmug.com/Travel/Israel-Trip/" target="_blank" rel="noopener noreferrer">Israel Photos</a> (The gallery will open in a new browser window.)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2009/07/photos/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4</post-id>	</item>
+	</channel>
+</rss>

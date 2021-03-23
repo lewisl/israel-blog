@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Israel Trip	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 16 Mar 2009 11:34:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Jeryl Levin		</title>
+		<link>./../comment-page-1/index.html#comment-20</link>
+
+		<dc:creator><![CDATA[Jeryl Levin]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2009 11:34:14 +0000</pubDate>
+		<guid isPermaLink="false">http://192.168.1.90/israel/?p=31#comment-20</guid>
+
+					<description><![CDATA[Lewis: Great blog and pics! Much better than my pictures. It was a pleasure touring Israel and Jordan with you, and I hope we stay in touch.
+I&#039;m eventually going to get to the Facebook page for us!
+Jeryl (the other Levin)
+]]></description>
+			<content:encoded><![CDATA[<p>Lewis: Great blog and pics! Much better than my pictures. It was a pleasure touring Israel and Jordan with you, and I hope we stay in touch.<br />
+I&#8217;m eventually going to get to the Facebook page for us!<br />
+Jeryl (the other Levin)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Philippe		</title>
+		<link>./../comment-page-1/index.html#comment-19</link>
+
+		<dc:creator><![CDATA[Philippe]]></dc:creator>
+		<pubDate>Sat, 21 Feb 2009 17:20:38 +0000</pubDate>
+		<guid isPermaLink="false">http://192.168.1.90/israel/?p=31#comment-19</guid>
+
+					<description><![CDATA[It is about time you go to Israel. Sounds like a great agenda.
+]]></description>
+			<content:encoded><![CDATA[<p>It is about time you go to Israel. Sounds like a great agenda.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: David Monson		</title>
+		<link>./../comment-page-1/index.html#comment-18</link>
+
+		<dc:creator><![CDATA[David Monson]]></dc:creator>
+		<pubDate>Sat, 21 Feb 2009 08:57:18 +0000</pubDate>
+		<guid isPermaLink="false">http://192.168.1.90/israel/?p=31#comment-18</guid>
+
+					<description><![CDATA[I&#039;ll be watching every day.  I really feel you gave me a good basis when we saw each other of what you will encounter.  I will be interested to see if your study before traveling corresponds with what you actually find on the ground.
+David
+]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;ll be watching every day.  I really feel you gave me a good basis when we saw each other of what you will encounter.  I will be interested to see if your study before traveling corresponds with what you actually find on the ground.<br />
+David</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

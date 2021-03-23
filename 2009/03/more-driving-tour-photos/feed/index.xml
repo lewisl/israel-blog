@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: More Driving Tour Photos	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 08 Jan 2010 20:45:37 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Lewis		</title>
+		<link>./../comment-page-1/index.html#comment-10</link>
+
+		<dc:creator><![CDATA[Lewis]]></dc:creator>
+		<pubDate>Sat, 07 Mar 2009 12:32:34 +0000</pubDate>
+		<guid isPermaLink="false">http://192.168.1.90/israel/?p=19#comment-10</guid>
+
+					<description><![CDATA[Turns out there are non-Kosher McDonalds as well.  There is one non-Kosher McDonalds in the center of Jerusalem that is open 24 hours a day, 7 days a week.  They have cheeseburgers.  Some rabbi got paid off to allow this.
+]]></description>
+			<content:encoded><![CDATA[<p>Turns out there are non-Kosher McDonalds as well.  There is one non-Kosher McDonalds in the center of Jerusalem that is open 24 hours a day, 7 days a week.  They have cheeseburgers.  Some rabbi got paid off to allow this.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jay Neilson		</title>
+		<link>./../comment-page-1/index.html#comment-9</link>
+
+		<dc:creator><![CDATA[Jay Neilson]]></dc:creator>
+		<pubDate>Tue, 03 Mar 2009 18:47:22 +0000</pubDate>
+		<guid isPermaLink="false">http://192.168.1.90/israel/?p=19#comment-9</guid>
+
+					<description><![CDATA[yummmm ronnies! no cheeseburgers? i dislike kosher
+]]></description>
+			<content:encoded><![CDATA[<p>yummmm ronnies! no cheeseburgers? i dislike kosher</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Situation	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 07 Mar 2009 13:43:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Lewis		</title>
+		<link>./../comment-page-1/index.html#comment-16</link>
+
+		<dc:creator><![CDATA[Lewis]]></dc:creator>
+		<pubDate>Sat, 07 Mar 2009 13:43:38 +0000</pubDate>
+		<guid isPermaLink="false">http://192.168.1.90/israel/?p=26#comment-16</guid>
+
+					<description><![CDATA[I should probably add some corrections:
+- Most of the Israeli public and policians support a 2-state solution.  The disagreement is over what Israel might be willing to give up to the Palistinian state.  Public support within Israel for the Jewish settlements in the West Bank is declining though existing settlements are still expanding.  It is not at all easy to see Israel giving back all of the settlements and it is not all easy to see Palestinians accepting only the few places where Israel has granted limited autonomy to date.
+- As challenging as the Israeli political situation is, at least Israel has a government.  There are no really stable institutions in the West Bank or in the Gaza Strip.  It&#039;s just not clear who can or will participate in negotiations with Israel.
+]]></description>
+			<content:encoded><![CDATA[<p>I should probably add some corrections:<br />
+&#8211; Most of the Israeli public and policians support a 2-state solution.  The disagreement is over what Israel might be willing to give up to the Palistinian state.  Public support within Israel for the Jewish settlements in the West Bank is declining though existing settlements are still expanding.  It is not at all easy to see Israel giving back all of the settlements and it is not all easy to see Palestinians accepting only the few places where Israel has granted limited autonomy to date.<br />
+&#8211; As challenging as the Israeli political situation is, at least Israel has a government.  There are no really stable institutions in the West Bank or in the Gaza Strip.  It&#8217;s just not clear who can or will participate in negotiations with Israel.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

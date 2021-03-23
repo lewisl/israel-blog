@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xml:lang="en-US"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+	<title type="text">
+	Comments on Tags	</title>
+	<subtitle type="text"></subtitle>
+
+	<updated>2009-03-01T10:23:45Z</updated>
+
+	<link rel="alternate" type="text/html" href="./../../index.html#comments" />
+	<link rel="self" type="application/atom+xml" href="./index.html" />
+	<id>./index.html</id>
+<generator uri="https://wordpress.org/" version="5.7">WordPress</generator>
+	<entry>
+		<title>
+		By: Emmy		</title>
+		<link rel="alternate" href="./../../comment-page-1/index.html#comment-11" type="text/html" />
+
+		<author>
+			<name>Emmy</name>
+			
+		</author>
+
+		<id>http://192.168.1.90/israel/?p=21#comment-11</id>
+		<updated>2009-03-01T10:23:45Z</updated>
+		<published>2009-03-01T10:23:45Z</published>
+
+					<content type="html" xml:base="./../../comment-page-1/index.html#comment-11"><![CDATA[<p>So cool to read about your trip and see the photos. The people of Jordon sound the most interesting. The map was super helpful as we track your travel. We hope you are feeling better. Looking forward to more postings and impressions.<br />
+Lots of Love, E, S, J, and E (and W)</p>
+]]></content>
+		
+					<thr:in-reply-to ref="http://192.168.1.90/israel/?p=21" href="./../../index.html" type="text/html" />
+				</entry>
+	</feed>

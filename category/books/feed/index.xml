@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Books &#8211; Israel Study Tour</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 13 Feb 2009 16:33:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+<site xmlns="com-wordpress:feed-additions:1">180112064</site>	<item>
+		<title>Reading List</title>
+		<link>./../../../2009/02/reading-list/index.html</link>
+					<comments>./../../../2009/02/reading-list/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 13 Feb 2009 16:33:07 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<guid isPermaLink="false">http://192.168.1.90/israel/?p=28</guid>
+
+					<description><![CDATA[Going on a trip like this, focused so much on political tension, requires deepening one’s understanding of the history of the region and the ideas and beliefs that provide context for the conflict.&#0160; I expanded my previous readings to include more consideration for Palestinian views. New for this trip: Once Upon a Country—A Palestinian Life, [&#038;hellip]]></description>
+										<content:encoded><![CDATA[<p>Going on a trip like this, focused so much on political tension, requires deepening one’s understanding of the history of the region and the ideas and beliefs that provide context for the conflict.&#0160; I expanded my previous readings to include more consideration for Palestinian views.</p>
+<p>New for this trip:</p>
+<p><em>Once Upon a Country—A Palestinian Life</em>, Sari Nusseibeh with Anthony David</p>
+<p><em>Shared Histories—A Palestinian-Israeli Dialogue,</em> Paul Scham, Walid Salem, Benjamin Pogrund (eds.)</p>
+<p><em>Sleeping on a Wire—Conversations with Palestinians in Israel,</em> afterword by David Grossman</p>
+<p><em>The Accidental Empire—Israel and the Birth of the Settlements, 1967-1977</em>, Gershom Gorenberg</p>
+<p><em>A Tale of Love and Darkness, </em>Amos Oz</p>
+<p><em>Lords of the Land</em>, Zeital and Eldar</p>
+<p><em>Dreams and Shadows,</em> Wright</p>
+<p><em>The Missing Peace,</em> Dennis Ross</p>
+<p></p>
+<p>Other books I’ve previously read to understand the longer term view of the conflict include:</p>
+<p><em>Righteous Victims</em>, Benny Morris.&#0160; Probably the best one volume history of Jewish settlement in Israel/Palestine and the long-term emergence of the conflict.&#0160;&#0160; His other books are very worthwhile, especially <em>1948</em></p>
+<p><em>Scars of War, Wounds of Peace,</em> Shlomo Ben-Ami.&#0160; An insider’s history of Israeli politics of the peace process by Ehud Barak’s foreign minister during the Camp David talks sponsored by President Clinton.</p>
+<p><em>Islam in the World</em>, Malise Ruthven.&#0160;&#0160; An excellent survey of what Muslims believe and the many interwoven threads of Islamic belief over the years.&#0160; Much better than, “the Quran says…”</p>
+<p><em>A History of the Arab Peoples,</em> Albert Hourani</p>
+<p><em>The Battle for God</em>, Karen Armstrong</p>
+<p></p>
+<p>And of course, the indispensable intellectual illumination to finding a way to resolve cultural conflict—the works of Isaiah Berlin, including:</p>
+<p><em>Four Essays on Liberty</em></p>
+<p><em>The Crooked Timber of Humanity: Chapters in the History of Ideas</em></p>
+<p>All of Berlin’s books and essays are worthwhile and challenging.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2009/02/reading-list/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">28</post-id>	</item>
+	</channel>
+</rss>

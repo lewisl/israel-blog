@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Reading List	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 20 Feb 2009 21:47:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Corey		</title>
+		<link>./../comment-page-1/index.html#comment-17</link>
+
+		<dc:creator><![CDATA[Corey]]></dc:creator>
+		<pubDate>Fri, 20 Feb 2009 21:47:20 +0000</pubDate>
+		<guid isPermaLink="false">http://192.168.1.90/israel/?p=28#comment-17</guid>
+
+					<description><![CDATA[Hi Lewis... we anxiously await your first blog posting!
+Hope your flights were uneventful.
+]]></description>
+			<content:encoded><![CDATA[<p>Hi Lewis&#8230; we anxiously await your first blog posting!<br />
+Hope your flights were uneventful.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

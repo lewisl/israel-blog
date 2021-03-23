@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Religion	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 08 Jan 2010 01:07:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Amy Beth Oppenheimer		</title>
+		<link>./../comment-page-1/index.html#comment-2</link>
+
+		<dc:creator><![CDATA[Amy Beth Oppenheimer]]></dc:creator>
+		<pubDate>Wed, 22 Jul 2009 11:43:27 +0000</pubDate>
+		<guid isPermaLink="false">http://192.168.1.90/israel/?p=5#comment-2</guid>
+
+					<description><![CDATA[Lewis, very interesting post.  I just finished 2 years of work on this subject with the newly released &quot;Faces of Israel&quot; film.
+You may wish to check it out.  :-)  www.facesthemovie.com  Enjoy!
+]]></description>
+			<content:encoded><![CDATA[<p>Lewis, very interesting post.  I just finished 2 years of work on this subject with the newly released &#8220;Faces of Israel&#8221; film.<br />
+You may wish to check it out.  🙂  <a href="http://www.facesthemovie.com/" rel="nofollow ugc">http://www.facesthemovie.com/</a>  Enjoy!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
